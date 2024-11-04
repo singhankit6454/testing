@@ -15,5 +15,6 @@ df = pd.DataFrame(data)
 df.to_csv('jenkins_data.csv', index=False)
 
 print("Data saved to sample_data.csv")'''
-
+import os
+os.environ.get('PYTHONPATH', '').split(os.pathsep)
 print('Heelo Test')
