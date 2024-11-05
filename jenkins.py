@@ -1,4 +1,4 @@
-
+'''
 import pandas as pd
 
 # Sample data for the DataFrame
@@ -18,3 +18,6 @@ print("**************************Data saved to sample_data.csv******************
 # import os
 # print(os.environ.get('PYTHONPATH', '').split(os.pathsep))
 print('Heelo Test')
+'''
+import sys
+print(sys.executable)
