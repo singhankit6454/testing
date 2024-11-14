@@ -1,4 +1,3 @@
-
 import pandas as pd
 
 # Sample data for the DataFrame
